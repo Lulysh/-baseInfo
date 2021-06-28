@@ -1,5 +1,5 @@
 <!--pages/login/login.wxml-->
 <view style="display:flex;justify-content:center;flex-direction:column;align-items:center;">
     <image src="../../images/logo.jpg" style="width:200rpx;height:200rpx;margin-top:200rpx"></image>
-    <button open-type="getUserInfo" bindgetuserinfo="getUserInfo" style="width:500rpx;  height:80rpx; border-radius:40rpx;margin-top:20rpx;background-color:greenYellow;color:white;font-size:30rpx;">登录</button>
+    <button open-type="getUserInfo" bindgetuserinfo="getUserInfoTest" style="width:500rpx;  height:80rpx; border-radius:40rpx;margin-top:20rpx;background-color:greenYellow;color:white;font-size:30rpx;">登录</button>
 </view>
