@@ -1,0 +1,15 @@
+<view id='loading_mask'>
+  <view id='loading_box'>
+    <view id='loading_svg'>
+      <text style="animation:scale1 0.75s infinite;left:34px;top:6px;"></text>
+      <text style="animation:scale2 0.75s infinite;left:54px;top:14px;"></text>
+      <text style="animation:scale3 0.75s infinite;left:62px;top:34px;"></text>
+      <text style="animation:scale4 0.75s infinite;left:54px;top:54px;"></text>
+      <text style="animation:scale5 0.75s infinite;left:34px;top:62px;"></text>
+      <text style="animation:scale6 0.75s infinite;left:14px;top:54px;"></text>
+      <text style="animation:scale7 0.75s infinite;left:6px;top:34px;"></text>
+      <text style="animation:scale8 0.75s infinite;left:14px;top:14px;"></text>
+    </view>
+    <text id='loading_txt'>正在加载...</text>
+  </view>
+  </view>
